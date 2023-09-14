@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <br>
-  <img src="/banner.png" alt="Banner" width="750">
+  <img src="/banner.png" alt="Banner" width="700">
   <br>
 </h1>
 
-I work as a researcher on issues related to water resources management 👷💧 and hydrological modelling 💻🌦️. I am currently focusing my research on the development of resources 🛰️🗺️ and tools ⚙️🧰 to help modellers. I hope I can assist you! 😊
+I work as a **researcher** on issues related to **Water Resources Management** 👷💧 and **Hydrological Modelling** 💻🌦️. I am currently focusing my efforts on developing **[RESOURCES](https://doi.org/10.1016/j.catena.2023.107339)** 🛰️🗺️ and **[TOOLS](https://adrlballesteros.github.io/MapSWAT/)** ⚙️🧰 to help modellers. I hope you find them useful! 😊
